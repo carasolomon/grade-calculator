@@ -1,5 +1,3 @@
-// Tacara Solomon
-//
 
 import java.io.*;
 
